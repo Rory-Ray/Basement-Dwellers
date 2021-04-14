@@ -100,7 +100,8 @@ table {
 		}
 
 	#die{
-		
+		width: 3.65rem;  
+		height: auto; 	
 	}
 	.secondary-content{
 		margin-top: rem;
